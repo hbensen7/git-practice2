@@ -1,2 +1,2 @@
 def hello_class():
-    print("hey class")
+ return [1, 2, 3]
